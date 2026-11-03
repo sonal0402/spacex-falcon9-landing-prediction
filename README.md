@@ -64,10 +64,8 @@ K-Nearest Neighbors with approximately **89% accuracy**
 
 ---
 
----
-
 ## 📄 Final Presentation
-The final project presentation is available in the `presentation/` folder and summarizes the complete data science workflow, insights, and conclusions.
+The final project presentation, `SpaceX_Capstone_Interactive_Presentation.pptx`, summarizes the complete data science workflow, insights, and conclusions.
 
 ---
 
